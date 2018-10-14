@@ -1,4 +1,6 @@
-# Symfony Project Run your application:
+# Symfony Project 
+
+### Run your application:
     1. Change to the project directory
     2. Create your code repository with the git init command
     3. Execute the php -S 127.0.0.1:8000 -t public command
